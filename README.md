@@ -3,10 +3,6 @@
 ## Overview
 This repository contains a **Power BI dashboard** analyzing Amazon Prime's Movies and TV Shows dataset. The dashboard provides actionable insights into the platform's content library, including ratings, genres, global distribution, and release trends. This project demonstrates advanced **data visualization** and **analytical storytelling** skills.
 
-## Dashboard Preview
-![Dashboard Preview](Dashboard Image.png)
-
-
 ## Key Features
 - **Comprehensive Overview:**
   - Total Titles: 9,655
