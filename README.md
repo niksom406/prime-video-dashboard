@@ -4,7 +4,7 @@
 This project features a **Power BI dashboard** that analyzes Amazon Prime's Movies and TV Shows dataset. It offers valuable insights into the content library, covering metrics like total titles, ratings, genres, global distribution, and release trends. This dashboard highlights advanced **data visualization** and **storytelling** skills.
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard%20image.png)
+![Dashboard Preview](dashboard-image.png)
 
 
 ## Key Features
